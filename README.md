@@ -24,4 +24,4 @@
 
 ## Miscellaneous
 
-- [1010](https://github.com/zx80/1010) and [blog](http://blog.coelho.net/games/2016/07/28/1010-game.html).
+- [1010](https://github.com/zx80/1010) and [blog](https://blog.coelho.net/1010-analysis/).
