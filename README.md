@@ -20,6 +20,7 @@
 
 - [AnoDB](/anodb/) -- Wrapper around _AioSQL_ and a database connection.
 - [AioSQL](https://nackjicholson.github.io/aiosql) -- YeSQL for Python (with Will Vaughn)
+- [pg-schema-version](https://zx80.github.io/pg-schema-version/) -- Simple Postgres Schema Versioning.
 - [Pg Comparator](https://github.com/zx80/pg_comparator) -- database contents comparison.
 
 ## Miscellaneous
