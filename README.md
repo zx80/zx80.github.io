@@ -7,17 +7,17 @@
 - [JSON Schema Corpus](https://github.com/clairey-zx81/yac) (with Claire)
 - [JSON Schema Utils](https://github.com/zx80/json-schema-utils) (with Claire)
 
-## Flask Utils
+## Flask Stuff
 
 - [FlaskSimpleAuth](/flask-simple-auth/) -- The Secure Flask Framework.
 - [FlaskTester](/flask-tester/) -- Pytest fixtures for Flask internal and external authenticated tests.
 
-## Python Utils
+## Python Stuff
 
 - [CachetoolsUtils](/cachetools-utils/) -- Python cache helpers on top of CacheTools
 - [ProxyPatternPool](/proxy-pattern-pool/) -- Proxy and Pool Classes for Python
 
-## Database Utils
+## Database Stuff
 
 - [AnoDB](/anodb/) -- Wrapper around _AioSQL_ and a database connection.
 - [AioSQL](https://nackjicholson.github.io/aiosql) -- YeSQL for Python (with Will Vaughn)
