@@ -5,6 +5,7 @@
 - [JSON Model](https://github.com/clairey-zx81/json-model) (with Claire)
 - [JSON Schema Stats](https://github.com/clairey-zx81/json-schema-stats) (with Claire)
 - [JSON Schema Corpus](https://github.com/clairey-zx81/yac) (with Claire)
+- [JSON Schema Utils](https://github.com/zx80/json-schema-utils) (with Claire)
 
 ## Flask Utils
 
