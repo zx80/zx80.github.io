@@ -14,8 +14,9 @@
 
 ## Python Stuff
 
-- [CachetoolsUtils](/cachetools-utils/) -- Python cache helpers on top of CacheTools
-- [ProxyPatternPool](/proxy-pattern-pool/) -- Proxy and Pool Classes for Python
+- [CachetoolsUtils](/cachetools-utils/) -- Stackable cache classes for sharing,
+  encryption, statistics _and more_ on top of cachetools, redis and memcached.
+- [ProxyPatternPool](/proxy-pattern-pool/) -- Generic Proxy and Pool classes for Python.
 
 ## Database Stuff
 
